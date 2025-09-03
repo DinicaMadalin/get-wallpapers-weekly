@@ -1,2 +1,2 @@
-RUN : pip install -r requirements.txt
-To install all requirments
+pip install -r requirements.txt
+To install all requirements
